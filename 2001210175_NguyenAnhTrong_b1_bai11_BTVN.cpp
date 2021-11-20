@@ -30,5 +30,4 @@ int main()
     else
         printf("Loai Yeu");
     getch();
-
     }
