@@ -30,3 +30,4 @@ long t,bd,kt;//tien, bat dau, ket thuc
 	}
 getch();
 }
+
