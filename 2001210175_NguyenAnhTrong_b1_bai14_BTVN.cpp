@@ -29,4 +29,4 @@ int main(){
   //dieu kien ba canh nhap vao khong phai la ba canh cua mot tam giac
   else
     printf("Ba canh a, b, c khong phai la ba canh cua mot tam giac");
-
+}
