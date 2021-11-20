@@ -25,6 +25,5 @@ for(i=201&&i<=300;i<=dien;i++)
 tien+=15;
 for(i=301;i<=dien;i++)
 tien+=20;
-
 printf("so tien phai tra la: %ld$", tien);
 }
